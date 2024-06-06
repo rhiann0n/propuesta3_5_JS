@@ -1,0 +1,23 @@
+.contenedor2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    padding: 50px;
+    height: auto;
+    flex-direction: column;
+}
+body{
+    background-color: darkslategrey;
+    font-family: Verdana;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boton{
+    padding: 10px 20px;
+    background-color: darkslategrey;
+    color: azure;
+    border-radius: 5px;
+}
